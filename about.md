@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "About"
+title: "linda"
 description: "你的博客描述 " 
 header-img: "img/green.jpg"
 ---
